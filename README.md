@@ -1,3 +1,5 @@
+This is a simple React app which uses youtube api to search youtube content and display it on the screen.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
